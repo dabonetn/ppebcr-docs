@@ -1,6 +1,6 @@
 # PPEB-CR SMD Board Assembly Guide
 
-## [JLCPCB Gerber and Assembly files are available here ](https://github.com/dabonetn/ppeb-cr/tree/main/Kicad/production)
+## [JLCPCB Gerber and Assembly files are available here ](https://github.com/dabonetn/ppeb-cr/tree/main/PPEB-CR/Kicad)
 
 <br>
 
